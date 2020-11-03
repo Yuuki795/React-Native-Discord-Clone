@@ -1,2 +1,2 @@
 # React-Native-Discord-Clone
-A Clone of Discord For Mobile
+A Clone of Discord For Mobile Using Firebase
